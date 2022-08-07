@@ -1,0 +1,6 @@
+streamlit==1.0
+pandas==0.25.3
+tensorflow
+transformers
+base64 
+openpyxl
